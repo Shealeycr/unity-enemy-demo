@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameMaster.cs">
+    <Files>
+      <File FileName="Assets/GameMaster.cs" Line="21" Column="25" />
+      <File FileName="Assets/Standard Assets/ParticleSystems/Scripts/WaterHoseParticles.cs" Line="1" Column="1" />
+      <File FileName="Assets/AstarPathfindingProject/Generators/NavMeshGenerator.cs" Line="1" Column="1" />
+      <File FileName="../iPhone App/Assets/AppMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets/AstarPathfindingProject/Utilities/AstarProfiler.cs" Line="1" Column="1" />
+      <File FileName="Assets/BossAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/GhostAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/RobotDogAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
