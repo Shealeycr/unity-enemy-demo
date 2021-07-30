@@ -9,7 +9,9 @@ Installation
 To run this game in Unity, install Unity version 2019.2.8f1.  
 Disclaimer: Newer versions of Unity do not support the version of the A* pathfinding asset for this game.  
 
-Once Untiy is installed, launch Unity and navigate to the **2D Enemy Demo** folder within this repo, and click open.  
+Launch Unity once is installed. The Unity Hub dialog should appear.  
+Navigate to the Projects tab, then click the **ADD** button. Next, navigate to the **2D Enemy Demo** folder within this repo, and click open.  
+The **2D Enemy Demo** project should now appear in Projects list. Click on this new project to launch the project in the Unity editor.
 Next, press the play button, and watch out for the dog! He bites!  
 
 Controls
